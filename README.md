@@ -1,10 +1,49 @@
-# california-housing-prediction-mlops
+# California Housing Price Prediction
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
 This is an example project for an excercise for the Constructor Academy Bootcamp. It is about predicting prizes of the california-housing-dataset (https://drive.google.com/file/d/1ZdY3c2n5EewMgBLSI0P3U91PSRoq40Mk/view?usp=sharing)
+
+
+#### -- Project Status: Active
+
+## Project Intro/Objective
+The purpose of this project is to apply and train Machine Learning Development and Deployment
+best practices as well as MLOps principles on a simple application. We use the
+California housing dataset to build a prediction model of the median house value.
+It is an example project for an exercise for The Constructor Academy Data Science Bootcamp.
+The dataset originates from here:
+
+https://drive.google.com/file/d/1ZdY3c2n5EewMgBLSI0P3U91PSRoq40Mk/view?usp=sharing
+
+
+### Methods Used
+* Machine Learning
+* Data Visualization
+* Predictive Modeling
+
+### Technologies
+* Python
+* Pandas, jupyter
+* scikit-learn
+
+## Project Description
+
+## Needs of this project
+
+## Getting Started
+
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
+4. etc...
+
+## Featured Notebooks
+* [Main Modelling Notebook](notebooks/MLE_D4_LC1_California_Prediction.ipynb)
+
+
 
 ## Project Organization
 
