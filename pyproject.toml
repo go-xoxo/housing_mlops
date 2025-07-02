@@ -3,7 +3,7 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "housing-mlops"
+name = "housing_mlops"
 version = "0.0.1"
 description = "This is an example project for an excercise for the Constructor Academy Bootcamp. It is about predicting prizes of the california-housing-dataset (https://drive.google.com/file/d/1ZdY3c2n5EewMgBLSI0P3U91PSRoq40Mk/view?usp=sharing)"
 authors = [
@@ -15,7 +15,7 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License"
 ]
-requires-python = "~=3.11.0"
+requires-python = "~=3.12.0"
 
 
 [tool.ruff]

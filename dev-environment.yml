@@ -1,0 +1,39 @@
+name: MLOps-dev
+channels:
+  - conda-forge
+dependencies:
+  - conda-forge::jupyterlab
+  - pip
+  - python=3.12.0
+  - pip:
+    - Sphinx==8.2.3
+    - alabaster==1.0.0
+    - awscliv2==2.3.1
+    - click==8.2.1
+    - coverage==7.9.1
+    - docutils==0.21.2
+    - flake8==7.3.0
+    - housing_mlops==0.0.1
+    - imagesize==1.4.1
+    - loguru==0.7.3
+    - markdown-it-py==3.0.0
+    - mccabe==0.7.0
+    - mdurl==0.1.2
+    - pycodestyle==2.14.0
+    - pyflakes==3.4.0
+    - python-dotenv==1.1.1
+    - rich==14.0.0
+    - roman-numerals-py==3.1.0
+    - ruff==0.12.1
+    - shellingham==1.5.4
+    - snowballstemmer==3.0.1
+    - sphinxcontrib-applehelp==2.0.0
+    - sphinxcontrib-devhelp==2.0.0
+    - sphinxcontrib-htmlhelp==2.1.0
+    - sphinxcontrib-jsmath==1.0.1
+    - sphinxcontrib-qthelp==2.0.0
+    - sphinxcontrib-serializinghtml==2.0.0
+    - tqdm==4.67.1
+    - typer==0.16.0
+
+prefix: "/home/frits/micromamba/envs/MLOps-dev"

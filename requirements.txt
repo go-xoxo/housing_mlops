@@ -1,8 +1,12 @@
-awscli
+awscliv2
 loguru
 pip
-python-dotenv
+python-dotenv>=0.5.1
 ruff
 tqdm
 typer
+Sphinx
+coverage
+click
+flake8
 -e .
